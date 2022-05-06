@@ -24,5 +24,10 @@
   "bugs": {
     "email": "kantemir-332@mail.com",
     "url": "https://github.com/mottodor/weather-cli-nodejs.git"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "dedent-js": "^1.0.1"
   }
 }
