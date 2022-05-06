@@ -1,0 +1,24 @@
+{
+  "name": "weather-cli-nodejs",
+  "version": "1.0.0",
+  "description": "CLI for checking weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather",
+    "nodejs"
+  ],
+  "author": "Kantemir Shogenov",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mottodor/weather-cli-nodejs.git"
+  },
+  "bugs": {
+    "email": "kantemir-332@mail.com",
+    "url": "https://github.com/mottodor/weather-cli-nodejs.git"
+  }
+}
